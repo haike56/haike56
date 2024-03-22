@@ -1,14 +1,14 @@
 # Hello! I'm Eggsy! Full Stack Developer
 ## About me
 
+Hola
+
 
 
 HEAD
-Hola a todos, gitmi nombre es Deynna
+Hola a todos, mi nombre es Deynna
 
 ## Contact me
-
-
 
 
 ## Technologies
@@ -20,4 +20,7 @@ cool
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
 
+
+## Hobbies
+- Dancing: ...
 
